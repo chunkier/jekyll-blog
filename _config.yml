@@ -23,7 +23,7 @@ title: BigQuery & Machine Learning
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is about BigQuery and Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chunkier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chunkier.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: chunkier
 github_username:  chunkier
 
